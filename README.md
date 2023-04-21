@@ -2,7 +2,6 @@
 <br>
 
 ## Introduction
-
 The ToDoList project is a great example of using HTML, CSS, and JavaScript to create a complete application. This application allows users to create a list of tasks and track their progress.
 <br>
 
