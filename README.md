@@ -19,9 +19,5 @@ The ToDoList project is a great example of using HTML, CSS, and JavaScript to cr
 
 ## View
 
-![](./img/screenshot.png)
-
-<!-- <p align="center">
-  <img src="./img/screenshot.png">
-</p> -->
+![img](./img/screenshot.png)
 
